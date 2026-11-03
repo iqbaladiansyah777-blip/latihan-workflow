@@ -1,0 +1,26 @@
+{
+  "name": "latihan-workflow",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000a\u0000t\u0000i\u0000h\u0000a\u0000n\u0000 \u0000W\u0000o\u0000r\u0000k\u0000f\u0000l\u0000o\u0000w\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbaladiansyah777-blip/latihan-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbaladiansyah777-blip/latihan-workflow/issues"
+  },
+  "homepage": "https://github.com/iqbaladiansyah777-blip/latihan-workflow#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "husky": "^9.1.7"
+  }
+}
